@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Sanchita Tople </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="linkedin.com/in/sanchita-tople/">LinkedIn</a> |
+  <a href="https://github.com/sanchitatople07">GitHub</a>
+  
+  <br>   
+  I am a data engineer working mostly on data analysis, data transformation, data wrangling and research kind of work.
+  Clinical data like EHR and Genomics data are my interest areas.
+  Working in Healthcare domain for more than 12+ years now.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
